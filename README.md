@@ -94,16 +94,22 @@ The turtle graphics are embedded directly into the Tkinter window using turtle.R
 Plant Structure
 
 Axiom: F
+
 Rules: F:F[+F]F[-F]F
+
 Angle: 25
+
 Iterations: 4
 
 
 Koch Curve
 
 Axiom: F
+
 Rules: F:F+F-F-F+F
+
 Angle: 90
+
 Iterations: 3
 
 📚 Technologies Used
