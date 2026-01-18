@@ -35,9 +35,9 @@ The expanded string is parsed character by character and interpreted as turtle c
 Symbol	Action
 F	Move forward and draw
 
-+ Turn right by the given angle
++ +Turn right by the given angle
 
--	Turn left by the given angle
+-	-Turn left by the given angle
 
 [Save current position and direction
 
