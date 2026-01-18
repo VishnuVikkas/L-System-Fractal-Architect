@@ -34,12 +34,12 @@ The expanded string is parsed character by character and interpreted as turtle c
 
 Symbol	Action
 F	Move forward and draw
- +	Turn right by the given angle
- -	Turn left by the given angle
+ +	+Turn right by the given angle
+ --	Turn left by the given angle
 
-[	Save current position and direction
+[	[Save current position and direction
 
-]	Restore last saved position and direction
+]	]Restore last saved position and direction
 
 A stack is used to store turtle states, enabling branching structures like trees.
 
